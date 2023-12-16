@@ -124,7 +124,7 @@ int StackQueue :: pop()
         | x |       |   |
          ---         ---
     */
-    */
+    
     if(s1.empty()) return -1;
     int top = s1.top();
     s1.pop();
